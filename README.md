@@ -23,6 +23,7 @@ Analyze sales data to identify trends, top-selling products, and revenue metrics
 The interactive sales dashboard provides actionable insights into sales performance, empowering users to make informed decisions. Leveraging Excel's powerful tools such as Power Query, Power Pivot, and advanced charting techniques, the dashboard offers a dynamic and intuitive interface for analyzing sales data effectively.
 
 **Snap of Dashboard**
+
 ![Screenshot 2024-05-25 231008](https://github.com/Kennycrown007/Sales-Dashboard/assets/77555958/aac78f5b-dae3-4f31-ab13-0e2f3078e24f)
 
 ## Insights from Dashboard Charts
@@ -30,4 +31,3 @@ The interactive sales dashboard provides actionable insights into sales performa
 2. **Profitability over Time:** Reveals sales trends for strategic planning.
 3. **Profitability by Weekday:** Guides staffing and marketing strategies by identifying peak profit days.
 4. **Product Analysis:** Optimizes inventory management by prioritizing high-value products.
-
