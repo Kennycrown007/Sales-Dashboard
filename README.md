@@ -1,5 +1,7 @@
 # Interactive Sales Dashboard- Power BI Project
 
+## Dashboard Link https://app.powerbi.com/links/xS1Dhwv7S6?ctid=5a27b60c-8d31-4220-b1d4-16c07a74c988&pbi_source=linkShare
+
 ## Introduction
 This project showcases the creation of an interactive sales dashboard in Power BI, offering comprehensive insights into sales performance from various perspectives.
 
